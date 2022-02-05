@@ -1,0 +1,5 @@
+node_modules  // aqui le estamos diciendo que ignore la carpeta node_modules
+
+/* .gitignore se usa para vaya ignorar archivos que no queremos que se suban a nuestro repositorio git
+dentro del archivo .gitignore se coloca el nombre de las carpetas o archivos que quieres que sean ignorados
+este archivo va en el directorio raiz.*/
